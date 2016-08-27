@@ -5,6 +5,7 @@ person-type: "student"
 title:  "Rehan Butt"
 tile-name: "Rehan Butt"
 thumbnail: "/img/people/rehanButt.png"
+permalink: "rehanButt"
 website: "rehanbutt.com"
 date:   2016-03-01 12:00:00 -0500
 ---
