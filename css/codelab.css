@@ -243,4 +243,16 @@ header {
 .copyright{
     font-size: 18px;
     font-weight: 600;
+    color: #b5b5b5;
+}
+
+.noSelect{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    user-drag: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
 }
