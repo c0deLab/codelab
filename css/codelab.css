@@ -15,6 +15,7 @@ h4 {
 
 h1{
     font-size: 32px;
+    margin-bottom: 50px;
 }
 
 h2{
@@ -34,8 +35,9 @@ article.post {
 p {
     padding-left: 10px;
     padding-right: 10px;
-    margin-top: 25px;
+    /*margin-top: 25px;*/
     margin-bottom: 25px;
+    font-size: 20px; 
 }
 
 
@@ -220,4 +222,25 @@ header {
     border-style: solid;
     border-color: white;
     border-width: 10px;
+}
+
+#siteButton {
+    width: 100%;
+    background-color: #E54762;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+#siteButton:hover {
+    background-color: #BA3A50;
+}
+
+.copyright{
+    font-size: 18px;
+    font-weight: 600;
 }

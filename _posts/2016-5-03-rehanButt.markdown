@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: people
 post-type: "people"
 person-type: "student"
 title:  "Rehan Butt"

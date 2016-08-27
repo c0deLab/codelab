@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: people
 post-type: "people"
 person-type: "faculty"
 title:  "Eddy Man Kim"
 tile-name: "Eddy Man Kim"
 thumbnail: "/img/people/eddyManKim.png"
-website: "eddyman.kim"
+website:
 date:   2016-03-01 12:00:00 -0500
 ---
 
