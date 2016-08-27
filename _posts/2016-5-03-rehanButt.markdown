@@ -7,6 +7,7 @@ tile-name: "Rehan Butt"
 thumbnail: "/img/people/rehanButt.png"
 permalink: "rehanButt"
 website: "rehanbutt.com"
+hero-text:
 date:   2016-03-01 12:00:00 -0500
 ---
 
