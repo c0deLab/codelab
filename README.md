@@ -12,8 +12,8 @@ To publish your changes to the site submit a pull request and it will be merged 
 ##People
 
 ###Image
-*All profile pictures need to be in square format at 470px x 470px
-*Each profile picture should be around 300KB; use an optimizer to reduce file size [imageoptim (Mac)](https://imageoptim.com/mac) & [xnview (win)](http://www.xnview.com/en/)
+* All profile pictures need to be in square format at 470px x 470px
+* Each profile picture should be around 300KB; use an optimizer to reduce file size [imageoptim (Mac)](https://imageoptim.com/mac) & [xnview (win)](http://www.xnview.com/en/)
 
 ##Projects
 
