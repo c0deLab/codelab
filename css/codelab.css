@@ -15,7 +15,6 @@ h4 {
 
 h1{
     font-size: 32px;
-    margin-bottom: 50px;
 }
 
 h2{
@@ -85,7 +84,7 @@ img {
     font-style: italic;
     text-decoration: underline;
 }
-
+/*
 .navbar {
     background-color: #77013a;
     color: white;
@@ -97,7 +96,7 @@ img {
     overflow-x: scroll;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
-}
+}*/
 
 
 a {
@@ -142,7 +141,11 @@ footer {
 }
 
 header {
-    background: url(../img/heroHomeColorBake.png) 0 0 no-repeat fixed;
+    background: url(../img/heroHomeColorBake.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     height: 600px;
     padding-top: 100px;
     padding-left: 90px;
@@ -255,4 +258,17 @@ header {
     user-drag: none;
     -moz-user-select: none;
     -webkit-user-drag: none;
+}
+
+.post-meta{
+    margin-top: -10px;
+    /*color: #E54762;*/
+}
+
+.post-title{
+    padding-left: 10px;
+}
+
+.pageTitle{
+    margin-bottom: 50px;   
 }
