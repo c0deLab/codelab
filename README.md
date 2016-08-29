@@ -1,6 +1,8 @@
 #About
 This is the site for codeLab @ CMU
 
+See an issues with the site? go ahead and open an issue in the [issues tab](https://github.com/c0deLab/codelab.com/issues)
+
 Need a little intro to web development? Check out this presentation over [here](https://dzgn.io/wdw.html)
 #Updating the Site
 
