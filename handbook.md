@@ -19,7 +19,7 @@ At the beginning of the academic year all new members of Codelab undergo an orie
 
 ## Trainings
 
-### EH&S-administered training
+#### EH&S-administered training
 
 There are four safety trainings that are compulsory for members of Codelab which are administered by [Environmental Health and Safety](http://cmu.edu/ehs), a University office. They are:
 
@@ -32,7 +32,7 @@ The Soldering Safety and Student Shop Safety trainings are completed online, and
 
 [Bioraft](http://cmu.bioraft.com) is the University’s system for tracking and administering safety trainings. Log in to Bioraft to complete the web trainings and sign up for in-person trainings, or follow the links above to go straight to the relevant Bioraft pages.
 
-### Codelab-administered training
+#### Codelab-administered training
 
 At the beginning of the academic year, Codelab members are trained on the safe and effective use of our major tools and facilities:
 
